@@ -1,0 +1,12 @@
+---
+title: Authentication
+---
+
+Every request needs a bearer token in the `Authorization` header:
+
+```bash
+curl https://api.boundaries.io/unitedstates/rest/v1/public/boundary/zipcode?zipcode=20019 \
+  -H "Authorization: Bearer <YOUR_API_KEY>"
+```
+
+Get a key at [boundaries-io.com](https://boundaries-io.com).

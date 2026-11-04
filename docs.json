@@ -1,0 +1,22 @@
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "theme": "mint",
+  "name": "Boundaries.io",
+  "colors": { "primary": "#1F4E78" },
+  "favicon": "/favicon.svg",
+  "navigation": {
+    "tabs": [
+      {
+        "tab": "Guides",
+        "groups": [
+          { "group": "Getting Started", "pages": ["index", "authentication"] }
+        ]
+      },
+      { "tab": "United States", "openapi": "openapi-us.json" }
+    ]
+  },
+  "navbar": {
+    "links": [{ "label": "Support", "href": "mailto:support@boundaries-io.com" }],
+    "primary": { "type": "button", "label": "Get API Key", "href": "https://boundaries-io.com" }
+  }
+}
