@@ -17,7 +17,7 @@
   },
   "navbar": {
     "links": [{ "label": "Support", "href": "mailto:support@boundaries-io.com" }],
-    "primary": { "type": "button", "label": "Get API Key", "href": "https://boundaries-io.com" }
+    "primary": { "type": "button", "label": "Get API Key", "href": "https://boundaries.io/contact" }
   },
-  "description": "US, UK, and Canada coverage with 99.8% uptime. \n\nFor over 6 years, our API has been trusted in production by multi-billion-dollar industry leaders and 200+ teams. Free tier. Sign up & subscribe in minutes."
+  "description": "US, UK, and Canada coverage with 99.9% SLA uptime. \n\nFor over 6 years, our API has been trusted in production by multi-billion-dollar industry leaders and 200+ teams. Free tier. Sign up & subscribe in minutes."
 }
